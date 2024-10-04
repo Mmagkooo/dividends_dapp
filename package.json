@@ -24,7 +24,7 @@
 		"@testing-library/user-event": "^13.5.0",
 		"@types/jest": "^27.4.1",
 		"@types/react": "^17.0.41",
-		"@types/react-dom": "^17.0.14",
+		"@types/react-dom": "^17.0.25",
 		"envfile": "^6.17.0",
 		"eslint-config-react-app": "^7.0.0",
 		"eslint-import-resolver-typescript": "^2.5.0",
